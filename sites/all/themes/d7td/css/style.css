@@ -1,0 +1,39 @@
+html, body {
+    background: #f8f5f1;
+    color: #433a2d;
+}
+a {
+    color: #122b76;
+}
+#navigation,
+#footer {
+    background: #4b4233;
+    color: #fff;
+    border: 1px solid #292011;
+    border-right: none;
+    border-left: none;
+}
+#navigation a,
+#footer a {
+    color: #fff;
+}
+#content {
+    background: #f6f7f9;
+}
+#main {
+    background: #ddd0c7;
+    border: 1px solid #837a6d;
+}
+body {
+    background-image: url(../images/bg.jpg);
+}
+#postscript {
+    background: #4b4233;
+    color: #fff;
+}
+#postscript a {
+    color: #fff;
+}
+#postscript table tr {
+    background: transparent;
+}
